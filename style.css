@@ -46,7 +46,7 @@ aside{
 
 	background: #D3D3D3;
 	float: right;
-	height:254px;
+	height:244px;
 	width:380px;
 
 }
@@ -58,9 +58,9 @@ article{
 	padding-bottom: 40px;
 }
 
-h2,p{
+p{
 
 	background: #D3D3D3;
 	margin: 20px;
-	
+
 }
