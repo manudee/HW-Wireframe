@@ -1,0 +1,66 @@
+body{
+
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	font-size: 18px;
+	width: 960px;
+	text-align: center;
+	background: #777;
+	color: black;
+	margin:auto;
+
+}
+
+header, footer, nav {
+	margin: 20px;
+	background: #D3D3D3;
+
+
+	
+}
+
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: block;
+}
+
+.clearfix{
+	
+	margin:20px;
+	overflow: auto;
+	height:auto;
+
+}
+
+
+section {
+
+	background: #D3D3D3;
+	width: 495px;
+	float: left;
+
+}
+
+
+aside{
+
+	background: #D3D3D3;
+	float: right;
+	height:254px;
+	width:380px;
+
+}
+
+article{
+
+	background: #ebebeb;
+	margin: 30px;
+	padding-bottom: 40px;
+}
+
+h2,p{
+
+	background: #D3D3D3;
+	margin: 20px;
+	
+}
